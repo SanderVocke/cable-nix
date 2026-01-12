@@ -19,3 +19,9 @@ nix build
 
 - **Connection Manager**: The connection manager won't open (cause unknown at the moment).
 - **JACK Connections**: Won't save/restore JACK connections because the `aj-snapshot` daemon is not running.
+
+## Disclaimer
+
+- I hope someone finds this as useful as myself.
+- I take no credit for the software being packaged.
+- I also take no credit for the creation of these package scripts, as they were mostly AI-generated.
